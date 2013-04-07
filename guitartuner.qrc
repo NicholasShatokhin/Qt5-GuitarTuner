@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="GuitarTunerPanel.qml">qml/GuitarTunerPanel.qml</file>
+        <file alias="IOControls.qml">qml/IOControls.qml</file>
+        <file alias="Meter.qml">qml/Meter.qml</file>
+        <file alias="Slider.qml">qml/Slider.qml</file>
+        <file alias="StringIndicator.qml">qml/StringIndicator.qml</file>
+        <file alias="StringSelector.qml">qml/StringSelector.qml</file>
+        <file alias="StringsModel.qml">qml/StringsModel.qml</file>
+        <file>images/meter-background.png</file>
+        <file>images/pointer-shadow.png</file>
+        <file>images/sensitivity.png</file>
+        <file>images/tuner_a.png</file>
+        <file>images/tuner_a_on.png</file>
+        <file>images/tuner_b.png</file>
+        <file>images/tuner_b_on.png</file>
+        <file>images/tuner_d.png</file>
+        <file>images/tuner_d_on.png</file>
+        <file>images/tuner_e.png</file>
+        <file>images/tuner_e_on.png</file>
+        <file>images/tuner_g.png</file>
+        <file>images/tuner_g_on.png</file>
+        <file>images/voicemode_off.png</file>
+        <file>images/voicemode_on.png</file>
+        <file>images/volume.png</file>
+        <file>images/volume_off.png</file>
+        <file>images/guitartuner_skin.png</file>
+        <file>images/tuner_auto.png</file>
+        <file>images/tuner_auto_on.png</file>
+        <file>images/big_a.png</file>
+        <file>images/big_b.png</file>
+        <file>images/big_d.png</file>
+        <file>images/big_e.png</file>
+        <file>images/big_g.png</file>
+        <file>images/glowing_a.png</file>
+        <file>images/glowing_b.png</file>
+        <file>images/glowing_d.png</file>
+        <file>images/glowing_e.png</file>
+        <file>images/glowing_g.png</file>
+        <file>images/pointer.png</file>
+        <file>images/power.png</file>
+        <file>images/slider.png</file>
+        <file>images/slider-background.png</file>
+    </qresource>
+</RCC>
